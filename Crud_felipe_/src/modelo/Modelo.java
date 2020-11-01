@@ -2,7 +2,7 @@ package modelo;
 
 public class Modelo {
 
-	private String nome;
+	private String nome1;
 	private String senha;
 	
 	public Modelo(String n, String s){
